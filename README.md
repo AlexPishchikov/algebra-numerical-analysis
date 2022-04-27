@@ -9,7 +9,7 @@
 7. [Метод простой итерации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab7)
 8. [Метод Якоби, метод Зейделя](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab8)
 9. [Метод релаксации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab9)
-<!-- 10. [Метод Ричардсона](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab10) -->
+10. [Метод Ричардсона](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab10)
 
 <!-- #### Курсовой проект -->
 <!-- [Методы релаксации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/project) -->
