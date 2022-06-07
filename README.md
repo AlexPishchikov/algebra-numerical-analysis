@@ -11,5 +11,5 @@
 9. [Метод релаксации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab9)
 10. [Метод Ричардсона](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/lab10)
 
-<!-- #### Курсовой проект -->
-<!-- [Методы релаксации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/project) -->
+#### Курсовой проект
+[Методы релаксации](https://github.com/AlexPishchikov/algebra-numerical-analysis/tree/main/project)
